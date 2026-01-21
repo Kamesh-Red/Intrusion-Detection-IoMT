@@ -16,7 +16,8 @@ Developed a machine learning-based Intrusion Detection System to detect DDoS att
 	•	Python
 	•	Pandas, NumPy, Scikit-learn
 	•	Django
-	•	CICIDS Dataset
+	•	Dataset Used: CICIDS Dataset
+	•   Source: Publicly available dataset for network intrusion detection
 
 🔹 Key Features
 
